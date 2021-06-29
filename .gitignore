@@ -1,3 +1,5 @@
 .vscode/
 .idea/
+.gitignore
 __pycache__/
+venv/
